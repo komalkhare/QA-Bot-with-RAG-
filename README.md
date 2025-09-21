@@ -1,5 +1,5 @@
 # Docs QA Bot🤖
-![Docs QA Bot Thumbnail](https://user-images.githubusercontent.com/81156510/251808915-1f5b357c-03e7-4c8b-894d-603fdc3d9ecc.png)
+
 A streamlit app that enables users to interact with the uploaded PDF. You can ask questions or doubts regarding the PDF and our Chatbot would answer them with a friendly response.
 
 ## Tech stack
@@ -50,3 +50,4 @@ Let's breakdown the working of the app into chunks to make it easier to understa
 ### Display the results in a Chatbot (Interface)
 <img width="548" alt="image" src="https://github.com/LLM-Projects/docs-qa-bot/blob/main/assets/UI.png">
 - Finally we display the results as a chat like interface provided by Streamlit
+
